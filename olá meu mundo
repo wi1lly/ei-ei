@@ -1,0 +1,7 @@
+#include <stdio.h>
+int main()
+{
+	printf("óla meu mundo");
+
+	return 0;
+}
